@@ -19,6 +19,15 @@ altura da folha do portão basculante em centímetros, após isso é só escolhe
 
 Sendo elas caixas 150x150, 170x170, e as caixas 100x200, 150x200 e 200x200 tem o mesmo resultado de articulação.
 
+150x150⬇️
+![Screenshot_20250106_164837_Calculadora Ponto de Giro](https://github.com/user-attachments/assets/d23b6100-494e-40cc-9739-6b3075a4ea29)
+
+170x170⬇️
+![Screenshot_20250106_164843_Calculadora Ponto de Giro](https://github.com/user-attachments/assets/9401dd79-f0ae-43fa-9eb6-6b74a2ed8cd6)
+
+100x200, 150x200 ou 200x200⬇️
+![Screenshot_20250106_164850_Calculadora Ponto de Giro](https://github.com/user-attachments/assets/5be9957e-8b68-4d6f-b755-faf22ea7a184)
+    
 Clicando na caixa escolhida o resultado das medidas do Braço, Orelha e Giro é gerado automaticamente. 
 
 
